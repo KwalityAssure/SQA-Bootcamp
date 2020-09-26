@@ -1,0 +1,15 @@
+module.exports = {
+
+    test : {
+
+        test1 :{
+
+        "name" :"Karim",
+        "email":"Karim@gmail.com",
+        "pass" :"Karimpass",
+        "datebirth": "01/02/2001"
+
+        }
+    }
+
+}

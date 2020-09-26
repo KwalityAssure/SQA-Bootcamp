@@ -1,0 +1,7 @@
+{ 
+    
+    "name ": "georges",
+    "age": "36",
+    "employee":{ "name":"John" , "age":30,"city": "NewYork"},
+    "employees": [ "John" , "Anna","Peter"]
+}
